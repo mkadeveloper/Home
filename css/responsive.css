@@ -1,0 +1,42 @@
+
+@media (max-width: 575.98px) {
+
+    .benner .benner_text h1 {
+        font-size: 54px;      
+    }
+
+    .benner .benner_text h3 {        
+        font-size: 35px;       
+    }
+    .benner .benner_text p {       
+        font-size: 15px;        
+    }
+    .img10 {
+        margin-left: -210px;
+        height: 209px;
+    }
+    .benner_text a {       
+        top: 415px;
+        left: 13px;        
+    }
+    .benner .benner_text p {       
+        padding-bottom: 73px;       
+    }
+    .security_img img {
+        
+        margin-left: 149px;
+        width: 246px;
+    }
+    .security_item h1 {        
+        font-size: 35px;        
+        padding-top: 40px;
+    }
+    .security_item h4 {       
+        font-size: 25px;        
+    }
+    .security_item p {        
+        font-size: 14px;        
+        padding: 0 155px 0 0px;        
+    }
+
+ }
